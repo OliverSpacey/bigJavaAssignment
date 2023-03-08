@@ -1,0 +1,11 @@
+frameset.jpg:
+https://commons.wikimedia.org/wiki/File:Bicycle_frame_mtb_hardtail.jpg
+Keithonearth, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+
+wheel.jpg:
+https://commons.wikimedia.org/wiki/File:Bicycle_wheel_with_dynamo_hub.JPG
+Sylenius, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+
+handlebar.jpg:
+https://commons.wikimedia.org/wiki/File:Bicycle_Handlebar.JPG
+TeWeBs, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
